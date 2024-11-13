@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Singh Ankur.
 
-I'm passionate about Artificial Intelligence and have experience in **Full Stack Development**. Here's a glimpse of what I bring to the table:
+I'm passionate about Artificial Intelligence and have experience in Full Stack Development. Here's a glimpse of what I bring to the table:
 
 About Me
 - 🌱 Enthusiastic learner and problem solver.
@@ -27,7 +27,7 @@ Projects
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
-https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<Ankursingh018as>
+https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=Ankursingh018as
 
 Connect with Me
 - 📫 Reach out to me on LinkedIn.
