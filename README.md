@@ -1,6 +1,9 @@
-Hi there! 👋 I'm Singh Ankur.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ankur Singh</h1>
 
-I'm passionate about Artificial Intelligence and have experience in Full Stack Development. Here's a glimpse of what I bring to the table:
+<p align='center'>
+  <a href="https://www.linkedin.com/in/singh-ankur-445b20295/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  
+<p>I'm passionate about Artificial Intelligence and have experience in Full Stack Development. Here's a glimpse of what I bring to the table:</p> 
 
 About Me
 - 🌱 Enthusiastic learner and problem solver.
@@ -39,7 +42,4 @@ Feel free to connect, collaborate, or discuss anything related to AI or full sta
 
 
 
-<!---
-Ankursingh018as/Ankursingh018as is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
