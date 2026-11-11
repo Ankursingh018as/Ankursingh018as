@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=220&section=header&text=Ankur%20Singh&fontSize=60&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20Builder&descAlignY=55" width="100%" alt="Ankur Singh header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1f6feb&height=220&section=header&text=Ankur%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20Builder&descAlignY=55" width="100%" alt="Ankur Singh header" />
 
 <a href="https://github.com/Ankursingh018as">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+autonomous+AI+agents;Designing+UACP+for+agent-to-agent+connectivity;Full-stack+with+Next.js+%2B+FastAPI+%2B+Node.js;LLM+apps+with+Gemini%2C+Groq+and+LangChain;Currently+building+IntelliNix+and+Nixtra" alt="Typing SVG" />
@@ -236,4 +236,4 @@
   Reach me on <a href="https://www.linkedin.com/in/singh-ankur-445b20295/">LinkedIn</a> or by <a href="mailto:ankursingh3992@gmail.com">email</a>.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1b2a&height=120&section=footer" width="100%" alt="footer" />
